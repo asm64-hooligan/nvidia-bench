@@ -54,4 +54,5 @@ nvcc -O3 -o nvidia_bench nvidia_bench.cu -lnvidia-ml \
 ---
 
 ## Output example
-<img width="742" height="516" alt="image" src="https://github.com/user-attachments/assets/1a883881-d1c1-43a9-bcd1-008217bcb0a6" />
+<img width="711" height="872" alt="image" src="https://github.com/user-attachments/assets/e0decdcf-ad74-4ae6-8858-70ff94611620" />
+
